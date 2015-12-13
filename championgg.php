@@ -48,7 +48,7 @@ class ChampionGG {
 			return false;
 		}		
 
-		$consumeItems = array(2003, 2004, 2044, 2043, 2041, 2138, 2137, 2139, 2140);
+		$consumeItems = array(2033, 2004, 2044, 2043, 2041, 2138, 2137, 2139, 2140);
 		$trinketItems = array(3340, 3341, 3342);
 		
 		if (in_array($champ, $this->manaless)) {
